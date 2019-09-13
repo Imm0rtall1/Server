@@ -1,2 +1,3 @@
 # Server
-Hoerezoon
+Dim SeppeIsKaal as mongol = roker
+
