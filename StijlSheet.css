@@ -1,0 +1,78 @@
+﻿body {
+    background-image: url('Fotos/1245.jpg');
+    background-size:cover;
+}
+@font-face {
+    font-family: 'Lemon Jelly Personal Use';
+    src: url('Fonts/Lemon Jelly Personal Use.ttf') format('truetype');
+}
+header {
+    background-image: url('Fotos/Supporters.jpg');
+    text-align: center;
+    font-family:'Lemon Jelly Personal Use';
+    font-size:40px;
+    Color: yellow;
+    padding: 20px;
+    display: block;
+}
+Div1{
+    background-color:black;
+    padding:20px;
+    color:white;
+    display:block;
+}
+aside {
+    background-color: grey;
+    float: right;
+    display: block;
+    
+    Padding: 20px;
+    width:200px;
+    
+}
+.image{
+    width:180px;
+    height:125px;
+    float:right;
+}
+nav{
+    padding:15px;
+    
+    box-sizing:border-box;
+    overflow:hidden;
+    background-color:black;
+    display:block;
+    text-decoration:none;
+    text-align:center;
+}
+    nav a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+nav a:hover{
+    background-color:white;
+    padding:15px;
+    text-decoration:none;
+        color:black;
+}
+.a2 {
+    text-decoration:none;
+    color:white;
+}
+.spelers {
+    
+}
+div2.Galerij {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    background-color:black;
+}
+div {
+    text-align:center;
+}
